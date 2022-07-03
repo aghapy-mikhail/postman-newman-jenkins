@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-tests-production": "newman run tests/fail.json --reporters cli,junit --reporter-junit-export report-2.xml"
+    "api-tests-production-2": "newman run tests/fail.json --reporters cli,junit --reporter-junit-export report-2.xml"
   },
   "author": "aghapy-gad",
   "dependencies": {
